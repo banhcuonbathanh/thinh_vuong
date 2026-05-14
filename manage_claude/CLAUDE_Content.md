@@ -31,6 +31,18 @@
   - ✅ khuyến mãi: không hứa quà tặng không có trong kho
 - Nếu sai bất kỳ mục nào → từ chối gửi duyệt, báo lỗi cụ thể.
 
+## Viết content theo persona
+
+Trước khi viết bất kỳ bài nào, xác định đang viết cho persona nào:
+- **Minh Sinh Viên** (4–12tr): hook chạm nỗi xấu hổ/lo lắng, kênh TikTok/Group
+- **Anh Hùng Văn Phòng** (10–20tr): hook an toàn/bảo hành, kênh Blog/Google
+- **Long Gamer** (15–30tr): hook benchmark thật/so sánh trực tiếp, kênh YouTube/TikTok
+
+Framework đầy đủ tại: `02_content/framework/content_writing_framework_by_persona.md`  
+Chân dung 3 persona tại: `04_CRM/customer_research.md`
+
+---
+
 ## Hàng tuần (Thứ Ba trước 14h)
 - Gửi ít nhất 1 ý tưởng mới vào `Kho_y_tuong_chung.xlsx` (dạng: ý tưởng gì, kênh nào, ngân sách đề xuất).
 - Đọc feedback từ CRM (file `Feedback_khach_hang.xlsx` nếu có) → viết 1 bài blog giải đáp thắc mắc phổ biến nhất.
