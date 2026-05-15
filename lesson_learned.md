@@ -16,6 +16,7 @@
 | 2026-05-13 | Hỏi clarifying questions khi task mơ hồ | User nói "research about customer" — hỏi trước về loại research + output mong muốn → user xác nhận "all of above" thay vì Claude làm sai hướng | CRM · Content |
 | 2026-05-13 | Xây tài liệu cross-domain trong 1 session | Persona (04_CRM) và content framework (02_Nội_dung) được xây song song + cross-reference nhau → team dùng được ngay cả 2 tài liệu, không cần session riêng | CRM · Content |
 | 2026-05-14 | Rearrange `02_content/` thành subfolders | Nhóm 12 files flat thành 5 subfolder: onboarding/, process/, calendar/, framework/, reference/ → dễ navigate, rõ ownership | Content |
+| 2026-05-14 | Phân tích ý tưởng content cũ vs mới | Khi user nói "ý tưởng cũ" = cần đọc framework + calendar hiện có → xác định pattern nào đã bão hòa → sinh ý tưởng mới từ insight khách hàng thực tế (customer_research.md), không từ template | Content |
 
 ---
 
