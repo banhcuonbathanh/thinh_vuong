@@ -51,6 +51,8 @@
 | 2026-05-13 | Request tiếng Anh vague từ user dự án tiếng Việt = dấu hiệu task chưa clear | User gõ "need to make research about customer how to do..." bằng tiếng Anh ngắn → thường là chưa hình dung rõ output → cần hỏi clarify ngay, không tự assume | Chung — tất cả domain |
 | 2026-05-29 | P-ARCH tasks hoàn thành sạch trong 1 session | P-ARCH-1 (storage-keys.ts) + P-ARCH-2 (wireframe doc corrections) hoàn thành đúng scope, không scope creep | FE Architecture |
 | 2026-05-31 | P-MON split BE+FE sub-tasks cho phép progress rõ ràng | P-MON-BE-1→3 (SQL+sqlc+repo+service+handler) tách hoàn toàn khỏi FE-1→6 → dễ verify từng layer độc lập | BE+FE — Task planning |
+| 2026-06-10 | Quy trình co-work với Claude nên ghi rõ việc gì KHÔNG giao cho Claude | Tạo `cowork_with_claude_content_process.md` — bảng "việc không giao" (chọn góc cuối, đăng bài, bịa số liệu, duyệt) giúp user giữ quyền quyết định kinh doanh, Claude chỉ nháp + check | Content — quy trình |
+| 2026-06-10 | `diagram.md` = registry trung tâm (cây file + skill đã có + roadmap + bảng "tôi muốn... mở file nào") | Sơ đồ cũ lỗi thời sau khi đổi tên folder sang tiếng Anh — registry phải được cập nhật mỗi khi thêm file/skill, gắn vào `/hand-off`. Bảng tra "tôi muốn → mở file nào" hữu ích hơn cây thư mục thuần | Quản lý docs |
 
 ---
 

@@ -37,8 +37,9 @@ Trưởng phòng điền `Brief_content_QC.docx`, content nhận và xác nhận
 
 ### 11:00 – 12:00 | Nghiên cứu chủ đề & từ khóa
 - Lên Google Trends tìm từ khóa liên quan sản phẩm tuần này
-- Xem 3–5 bài đăng mới nhất của usalaptop.vn, CellphoneS trên Facebook/TikTok
+- Xem 3–5 bài đăng mới nhất của usalaptop.vn, CellphoneS trên Facebook/TikTok — **chụp màn hình** từng bài, thả vào `02_content/reference/competitor_screenshots/` rồi chạy skill `/competitor-posts` → Claude tóm tắt vào `competitor_posts_log.md` + đề xuất góc content phản công
 - Đọc 10 bình luận gần nhất của fanpage Laptop Thịnh Vượng để nắm vấn đề khách đang quan tâm
+- **Lưu lại** các câu hỏi/thắc mắc vừa đọc vào mục Ưu tiên 1 của `02_content/reference/data_request_for_content.md` (format `[comment] nguyên văn...`) — để tiếng nói khách hàng tích lũy theo tuần, không đọc xong bỏ
 - Ghi nhanh vào `Y_tuong_ca_nhan_[tuan].docx`: 3 ý tưởng theo format `Tên ý tưởng | Kênh | Lợi ích cho khách | Chi phí | Mô tả 2 câu`
 
 ### 13:30 – 17:00 | Điền content calendar

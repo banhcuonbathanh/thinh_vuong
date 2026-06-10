@@ -35,7 +35,8 @@
 
 ## 2. Customer Persona
 
-> 3 persona chính dựa trên phân khúc doanh thu và hành vi mua hàng thực tế.
+> 3 persona chính, xây từ desk research (dữ liệu thị trường + website) — **chưa kiểm chứng bằng khách hàng thật**.
+> Xem mục "Giả định cần kiểm chứng" cuối phần này. Dữ liệu kiểm chứng thu thập theo `02_content/reference/data_request_for_content.md`.
 
 ---
 
@@ -138,6 +139,23 @@
 **Thông điệp hiệu quả:** *"Gaming thật — giá thật, không phải máy trưng bày"*
 
 **Kênh tiếp cận:** YouTube · TikTok benchmark · Discord · Livestream Facebook
+
+---
+
+### Giả định cần kiểm chứng
+
+> Mỗi giả định bên dưới đang là phỏng đoán. Khi có dữ liệu thật → cập nhật cột Trạng thái: ✅ Đúng / ❌ Sai (sửa persona) / ⚠️ Đúng một phần.
+> Nếu sửa persona → review lại `02_content/framework/content_writing_framework_by_persona.md` (hook/CTA bám theo persona).
+
+| # | Giả định | Persona | Dữ liệu kiểm chứng | Trạng thái |
+|---|----------|---------|--------------------|------------|
+| 1 | Khách sợ nhất là máy lỗi/pin chai, không phải giá | Minh SV | Câu hỏi inbox thật + lý do không mua | ⬜ Chưa có data |
+| 2 | Phân khúc 4–12tr là phân khúc bán chạy nhất | Minh SV | Top model bán chạy theo tầm giá | ⬜ Chưa có data |
+| 3 | Khách văn phòng ít nhạy cảm giá, quyết định vì bảo hành | Anh VP | Lý do chốt đơn sales nghe được | ⬜ Chưa có data |
+| 4 | Khách văn phòng tìm qua Google Search là chính | Anh VP | Nguồn khách theo kênh | ⬜ Chưa có data |
+| 5 | Gamer xem YouTube benchmark trước khi mua | Long Gamer | Top video YouTube nhiều view + khách nhắc video khi inbox | ⬜ Chưa có data |
+| 6 | Tồn tại đủ lượng khách 15–30tr để đáng làm content riêng | Long Gamer | Tỷ trọng đơn theo phân khúc giá | ⬜ Chưa có data |
+| 7 | Khách chốt đơn chủ yếu qua inbox Facebook, không qua hotline | Cả 3 | Kênh chốt đơn thực tế | ⬜ Chưa có data |
 
 ---
 

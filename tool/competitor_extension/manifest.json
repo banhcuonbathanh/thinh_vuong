@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Laptop TV — Trích bài đối thủ",
+  "version": "1.0",
+  "description": "Trích bài đăng đang hiển thị trên fanpage đối thủ ra file .md để Claude tóm tắt (skill /competitor-posts)",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Trích bài đối thủ"
+  },
+  "permissions": ["activeTab", "scripting", "downloads"]
+}

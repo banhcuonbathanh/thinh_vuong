@@ -82,22 +82,23 @@ Claude chủ động dừng và đặt câu hỏi khi:
 
 ```
 lap top thinh vuong/
-├── 01_Chiến lược/      ← Trưởng phòng (Full access)
-├── 02_Nội dung/        ← Content team
-├── 03_Quảng cáo/       ← Digital team
+├── 01_strategy/        ← Trưởng phòng (Full access)
+├── 02_content/         ← Content team (framework/ process/ calendar/ reference/ onboarding/)
+├── 03_advertising/     ← Digital team
 ├── 04_CRM/             ← CRM team
-├── 05_Báo cáo/         ← Báo cáo & phân tích
+├── 05_reports/         ← Báo cáo & phân tích
 ├── manage_claude/      ← CLAUDE.md theo từng vai trò
 │   ├── CLAUDE.md           Tổng thể
-│   ├── CLAUDE_TruongPhong.md
+│   ├── CLAUDE_Manager.md
 │   ├── CLAUDE_Content.md
 │   ├── CLAUDE_Digital.md
 │   └── CLAUDE_CRM.md
+├── tool/               ← Công cụ (extension, roadmap skill)
 ├── lesson_learned.md   ← Bài học tích lũy qua các session
-└── sơ_đồ.md            ← Bản đồ cấu trúc tài liệu
+└── diagram.md          ← Registry trung tâm: cây tài liệu + skill + bảng tra nhanh
 ```
 
-**Quy tắc truy cập:** Xem `sơ_đồ.md` để biết ai được đọc/sửa thư mục nào.
+**Quy tắc truy cập:** Xem `diagram.md` để biết ai được đọc/sửa thư mục nào.
 
 ---
 

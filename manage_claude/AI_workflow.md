@@ -125,4 +125,4 @@ flowchart LR
 
 - [CLAUDE.md](CLAUDE.md) — Nguyên tắc & 7 bước chi tiết
 - [../lesson_learned.md](../lesson_learned.md) — Kinh nghiệm tích lũy
-- [../sơ_đồ.md](../sơ_đồ.md) — Cấu trúc toàn bộ dự án
+- [../diagram.md](../diagram.md) — Registry trung tâm: cây tài liệu + skill + bảng tra nhanh
